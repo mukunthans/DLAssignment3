@@ -2,6 +2,8 @@
 
 This repository contains implementations of sequence-to-sequence models for Tamil transliteration - the process of converting English text to Tamil script. Two variants of the model are provided: one with attention mechanism and one without, along with advanced features like beam search decoding and comprehensive visualization tools.
 
+**Project Report:** [WandB Report Link](https://api.wandb.ai/links/cs24m026-iit-madras-foundation/7jyfacs0)
+
 ## Table of Contents
 
 - [Overview](#overview)
@@ -15,8 +17,6 @@ This repository contains implementations of sequence-to-sequence models for Tami
 - [Evaluation](#evaluation)
 - [Visualization](#visualization)
 - [Hyperparameter Tuning](#hyperparameter-tuning)
-- [Results Comparison](#results-comparison)
-- [References](#references)
 
 ## Overview
 
